@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/blu-ray/Daleel/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/blu-ray/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/blu-ray/squeak_fixed/android/app/.cxx/Debug/1u2r5715/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/blu-ray/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/blu-ray/squeak_fixed/android/app/.cxx/Debug/1u2r5715/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,2 @@
+/Users/blu-ray/squeak_fixed/android/app/.cxx/RelWithDebInfo/2z5t5z7g/x86_64/CMakeFiles/edit_cache.dir
+/Users/blu-ray/squeak_fixed/android/app/.cxx/RelWithDebInfo/2z5t5z7g/x86_64/CMakeFiles/rebuild_cache.dir
