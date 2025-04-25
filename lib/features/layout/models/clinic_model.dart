@@ -11,6 +11,9 @@ class MySupplierModel {
           (json['clinics'] as List).map((e) => ClinicInfo.fromJson(e)).toList(),
     );
   }
+
+  
+  
 }
 
 class ClinicInfo {

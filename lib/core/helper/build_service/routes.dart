@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:squeak/features/appointments/models/get_appointment_model.dart';
-import 'package:squeak/features/appointments/view/appointments/rate_appointment.dart';
+import 'package:squeak/features/appointments/user/presentation/pages/rate_appointment.dart';
 import 'package:squeak/features/auth/password/presentation/pages/forgot_password.dart';
 import 'package:squeak/features/auth/login/presentation/pages/login_screen.dart';
 import 'package:squeak/features/auth/register/presentation/pages/register_screen.dart';

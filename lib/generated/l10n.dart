@@ -1794,6 +1794,8 @@ class S {
       args: [],
     );
   }
+
+  Null get chooseDoctor => null;
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<S> {

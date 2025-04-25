@@ -15,7 +15,7 @@ import 'package:squeak/features/auth/register/data/models/country_model.dart';
 import 'package:squeak/features/auth/register/data/repositories/register_repository.dart';
 import 'package:squeak/features/layout/controller/layout_cubit.dart';
 import 'package:squeak/features/vetcare/models/vetIcare_client_model.dart';
-import 'package:geolocator/geolocator.dart';
+//import 'package:geolocator/geolocator.dart';
 
 part 'register_state.dart';
 
@@ -77,7 +77,7 @@ class RegisterCubit extends Cubit<RegisterState> {
 
   Future<String?> getCountryCode() async {
       emit(GetCurrentCountryCodeLoadingState());
-    try {
+    /* try {
       // Check location permission
       LocationPermission permission = await Geolocator.checkPermission();
       if (permission == LocationPermission.denied) {
@@ -127,7 +127,7 @@ class RegisterCubit extends Cubit<RegisterState> {
       emit(GetCurrentCountryCodeErrorState());
       print("Error getting country name: $e");
     }
-    return null; 
+    return null;  */
   }
 
 

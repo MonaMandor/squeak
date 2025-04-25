@@ -8,7 +8,7 @@ import 'package:squeak/core/constant/global_function/global_function.dart';
 import 'package:squeak/core/helper/remotely/dio.dart';
 import 'package:squeak/core/thames/styles.dart';
 import 'package:squeak/features/appointments/models/get_appointment_model.dart';
-import 'package:squeak/features/appointments/view/appointments/rate_appointment.dart';
+import 'package:squeak/features/appointments/user/presentation/pages/rate_appointment.dart';
 import 'package:squeak/features/layout/controller/layout_cubit.dart';
 import 'package:squeak/features/layout/controller/notificationsCubit/notifications_cubit.dart';
 import 'package:squeak/features/layout/layout.dart';

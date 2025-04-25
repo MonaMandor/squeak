@@ -6,7 +6,7 @@ import 'package:squeak/core/constant/global_widget/responsive_screen.dart';
 import 'package:squeak/core/helper/build_service/main_cubit/main_cubit.dart';
 import 'package:squeak/core/thames/decorations.dart';
 import 'package:squeak/core/thames/styles.dart';
-import 'package:squeak/features/appointments/view/supplier/get_supplier.dart';
+import 'package:squeak/features/appointments/clinic/presentation/pages/get_supplier.dart';
 import 'package:squeak/features/layout/controller/layout_cubit.dart';
 import 'package:squeak/features/layout/layout.dart';
 import 'package:squeak/features/pets/models/pet_model.dart';

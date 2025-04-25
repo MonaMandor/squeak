@@ -5,7 +5,7 @@ import 'package:squeak/features/appointments/models/get_appointment_model.dart';
 import 'package:squeak/features/vetcare/view/pet_merge_screen.dart';
 
 import '../../core/helper/cache/cache_helper.dart';
-import '../appointments/view/appointments/rate_appointment.dart';
+import '../appointments/user/presentation/pages/rate_appointment.dart';
 import '../auth/login/presentation/pages/login_screen.dart';
 import '../vetcare/view/vetCareRegister.dart';
 import 'controller/layout_cubit.dart';
